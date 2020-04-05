@@ -1,0 +1,4 @@
+- path: /urlshortener
+  url: https://github.com/jimmyfielding/gophercises/tree/master/url_shortener
+- path: /quizgame
+  url: https://github.com/jimmyfielding/gophercises/tree/master/quiz_game
